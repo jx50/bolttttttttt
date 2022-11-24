@@ -1,0 +1,17 @@
+        <button class="flex justify-center bg-slate-100 p-1.5 rounded-full">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="4"
+            stroke="currentColor"
+            class="w-6 h-6 bg-cyan-400 text-white p-1 rounded-full"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M4.5 12.75l6 6 9-13.5"
+            />
+          </svg>
+          <p class="font-bold mx-1 opacity-70">Verified account</p>
+        </button>
